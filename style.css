@@ -1,0 +1,73 @@
+header  {
+    text-align: center;
+    color: black;
+    }
+  header a {
+    color: white;
+  }
+header ul{
+      padding: 10px;
+      background: #7FBF3F;
+    }
+  header  li {
+      display: inline;
+      padding: 0px 40px 0px 40px;
+    }
+
+h1{
+  font-size: 90px;
+  font-family: 'Tangerine', serif;
+  text-shadow: 4px 4px 4px #aaa;
+}
+h2{
+  font-size: 30px;
+  font-family: fantasy;
+  color:black;
+}
+h3{
+  color: green;
+  font-style: italic;
+  font-family: 'Courgette', cursive;
+  }
+body {
+  background: url("https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg?cs=srgb&dl=board-bread-breakfast-bunch-349610.jpg&fm=jpg");
+  background-size: cover;
+
+  }
+  article {
+        max-width:800px;
+        padding: 10px;
+        margin: 0 auto;
+      }
+ img {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000;
+  margin: 0 auto;
+  align : center;
+}
+footer {
+        background: #7FBF3F;
+        width: 100%;
+        height: 20px;
+        position: relative;
+        bottom: 0;
+      }
+
+#social {
+  font-size: 20px;
+  color: white;
+  padding-left: 20px;
+}
+
+.normal{
+  font-size: 15px;
+  color:#4C1919;
+  font-family: "Helvetica Neue",Helvetica,Arial;
+  font-style: normal;
+}
+.side{
+      display: inline;
+      padding: 0px 40px 0px 40px;
+      list-style-type: none;
+}
